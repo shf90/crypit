@@ -108,5 +108,5 @@ Enjoy running your Gensyn node! 😸😃
 
 ---
 
-Let me know if you want a `README.md` file download or want this pushed to a new repo.
+
 
