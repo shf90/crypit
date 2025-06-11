@@ -3,7 +3,9 @@ Gensyn Solution Fix
 
 
 SPECS :- CLOUD VPS PRESET N2 32GB RAM (WITH 150GB STORAGE)
-Required Commands 
+
+
+Required Commands :
 
 Gensyn Automated
 1st
